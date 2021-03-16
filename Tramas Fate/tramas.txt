@@ -1,4 +1,10 @@
+Esta ayuda para FATE toma de referencia partes de las siguientes obras: "Magissa", de Edanna Reyes y "El resurgir del dragón" de Pedro J. Ramos, Pedro Gil, Juan Sixto, Pablo Sixto.
+
+La tabla está pensada para generar rápidamenete una semilla de aventura para vuestras partidas de rol con el sistema FATE. Está pensado principalmente para el juego sin Director de Juego (DJ), pero también puede ser una buena herramienta para éstos
+
 1. Prueba de conocimiento
+Un maestro o mentor ofrece su ayuda y guía. D
+
 2. Prueba de piedad o de fé
 3. Protección
 4. Lealtad, amistad o amor.
