@@ -1,6 +1,8 @@
-Esta ayuda para FATE toma de referencia partes de las siguientes obras: "Magissa", de Edanna Reyes y "El resurgir del dragón" de Pedro J. Ramos, Pedro Gil, Juan Sixto, Pablo Sixto.
+Esta ayuda para FATE toma de referencia partes de las siguientes obras: "Magissa", de Edanna Real Reyes y "El resurgir del dragón" de Pedro J. Ramos, Pedro Gil, Juan Sixto, Pablo Sixto.
 
-La tabla está pensada para generar rápidamenete una semilla de aventura para vuestras partidas de rol con el sistema FATE. Está pensado principalmente para el juego sin Director de Juego (DJ), pero también puede ser una buena herramienta para éstos
+La tabla está pensada para generar rápidamenete una semilla de aventura para vuestras partidas de rol con el sistema FATE (en cualquier variante). Está pensado principalmente para el juego sin Director de Juego (DJ), pero también puede ser una buena herramienta para éstos. Está escrita de una forma muy genérica, de forma totalmente intencionada. FATE es un sistema pensado para adaptar o jugar literalmente cualquier cosa. ¿Fantasía de exploración de mazmorras? ¿Cyberpunk de un futuro distópico? ¿Vámpiros y hombres lobo? ¿Aquel anime tan chulo de piratas? ¿Ese cómic de irreductibles galos? ¿Tu peli favorita de aquel mafioso italiano de Nueva York? Todo eso y mucho más tiene cabida, así que es necesario que sea una breve guía para cuando las musas no llegan ni a acariciarte. Sin duda será ese punto de partida, ese ligero toque de inspiración para que esa historia que quieres contar (tu solo o con amigos), arranque. En seguida podrás dotar a tu historia, a tu partida un montón de matices, colores y formas que la harán tuya (y del resto de tu mesa, claro). Sin más, te dejo la tabla y unas breves explicaciones y ejemplos.
+
+La forma de usar la tabla es muy simple. Tira tus cuatro dados fate (4dF). Por cada símbolo +, ve una celda hacia la derecha. Por cada símbolo -, muévete hacia abajo. 
 
 1. Prueba de conocimiento
 Un maestro o mentor ofrece su ayuda y guía. D
@@ -19,39 +21,6 @@ Un maestro o mentor ofrece su ayuda y guía. D
 13. Combatir el mal
 14. Huida
 15. Iniciar un viaje
-
-
-
-+
-+
-+
-+
-
-Prueba de conocimiento
-Prueba de piedad o de fe
-Protección
-Lealtad, amistad o amor
-Reparar un error
--
-Ejecutar un juicio
-Prueba de sabiduría
-Prueba de suerte
-Prueba de fuerza o voluntad
-
--
-Acertijos y enigmas
-Cambio radical
-Restaurar el equilibrio
-
-
--
-Combatir el mal
-Huida
-
-
-
--
-Iniciar un viaje
 
 
 
