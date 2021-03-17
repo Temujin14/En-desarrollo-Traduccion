@@ -5,11 +5,16 @@ La tabla está pensada para generar rápidamenete una semilla de aventura para v
 La forma de usar la tabla es muy simple. Tira tus cuatro dados fate (4dF). Por cada símbolo +, ve una celda hacia la derecha. Por cada símbolo -, muévete hacia abajo. 
 
 1. Prueba de conocimiento
-Un maestro o mentor ofrece su ayuda y guía. D
+Un maestro o mentor ofrece su ayuda y guía. Aventuras encaminadas a conseguir conocimiento, ya sea de dicho maestro, de algún objeto particular u otro personaje.
 
 2. Prueba de piedad o de fé
+Los jugadores deben poner a prueba su piedad o su fe
+
 3. Protección
-4. Lealtad, amistad o amor.
+Un grupo de personas, algún lugar, uno o varios objetos o un personaje de forma individual necesitan de la protección de los jugadores.
+ 
+4. Lealtad, amistad o amor
+Los jugadores deben demostrar su lealtad a un grupo de personajes. Pueden ser
 5. Reparar un error
 6. Ejecutar un juicio
 7. Prueba de sabiduría
