@@ -17,7 +17,11 @@ Un grupo de personas, algún lugar, uno o varios objetos o un personaje de forma
 Los jugadores deben demostrar su lealtad, amistad o amor a un personaje o un grupo de personajes. Puede ser quien les encargue la misión, una facción de las muchas con las que los jugadores tienen tratos, empresas, gremios o corporaciones. O también puede ser un vínculo personal de uno de los jugadores, presente o pasado.
 
 5. Reparar un error
+Los jugadores han cometido un error que deben solucionar. Puede que hayan creado desperfectos en la población donde acaban de luchar, han perdido una información clave, se la han dado al enemigo (por error o a propósito), han roto, perdido o estropeado un objeto valioso o quizá han malherido a un personaje importante, fisica o mentalmente.
+
 6. Ejecutar un juicio
+Es necesario hacer justicia. Para bien, o para mal. Defender a un ladrón o un asesino (acusado justa o injustamente), intervenir en una disputa vecinal, alzar en el poder a quien cree merecerlo, eliminando para ello a sus rivales. Buscar pruebas y testimonios a favor de unos o en contra de otros para, en definitiva, aplicar la justicia. De los hombres o de algún dios.
+
 7. Prueba de sabiduría
 8. Prueba de suerte
 9. Prueba de fuerza o voluntad
