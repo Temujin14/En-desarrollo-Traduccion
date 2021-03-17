@@ -1,4 +1,4 @@
-Esta ayuda para FATE toma de referencia partes de las siguientes obras: "Magissa", de Edanna Real Reyes y "El resurgir del dragón" de Pedro J. Ramos, Pedro Gil, Juan Sixto, Pablo Sixto.
+Esta ayuda para FATE toma de referencia partes de las siguientes obras: "Magissa", de Edanna Real Reyes, "El secreto de los gatos", de .
 
 La tabla está pensada para generar rápidamenete una semilla de aventura para vuestras partidas de rol con el sistema FATE (en cualquier variante). Está pensado principalmente para el juego sin Director de Juego (DJ), pero también puede ser una buena herramienta para éstos. Está escrita de una forma muy genérica, de forma totalmente intencionada. FATE es un sistema pensado para adaptar o jugar literalmente cualquier cosa. ¿Fantasía de exploración de mazmorras? ¿Cyberpunk de un futuro distópico? ¿Vámpiros y hombres lobo? ¿Aquel anime tan chulo de piratas? ¿Ese cómic de irreductibles galos? ¿Tu peli favorita de aquel mafioso italiano de Nueva York? Todo eso y mucho más tiene cabida, así que es necesario que sea una breve guía para cuando las musas no llegan ni a acariciarte. Sin duda será ese punto de partida, ese ligero toque de inspiración para que esa historia que quieres contar (tu solo o con amigos), arranque. En seguida podrás dotar a tu historia, a tu partida un montón de matices, colores y formas que la harán tuya (y del resto de tu mesa, claro). Sin más, te dejo la tabla y unas breves explicaciones y ejemplos.
 
@@ -24,11 +24,15 @@ Es necesario hacer justicia. Para bien, o para mal. Defender a un ladrón o un a
 
 7. Prueba de sabiduría
 8. Prueba de suerte
+No siempre depende todo de las buenas decisiones o de realizar acciones de forma correcta. A veces la suerte es indispensable para tener éxito. La rueda de la fortuna gira y pone las cosas de tu parte, o totalmente en contra. Es bueno tener
+
 9. Prueba de fuerza o voluntad
 10. Acertijos y enigmas
 11. Cambio radical
 12. Restaurar el equilibrio
 13. Combatir el mal
+O el bien. A menudo son dos caras de una misma moneda.
+
 14. Huida
 15. Iniciar un viaje
 
