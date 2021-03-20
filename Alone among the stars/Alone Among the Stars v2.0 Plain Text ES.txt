@@ -5,3 +5,11 @@ Traducido por Antonio Lence "Temujin"
 Un juego de rol en solitario sobre exploración de planetas fantásticos.
 
 Eres un aventurero solitario, saltando de planeta en planeta explorando. Cada mundo tiene características únicas para que las descubras y grabes. Están representadas por cartas de una baraja francesa estandar, puesto boca abajo.
+
+Para encontrar un nuevo planeta, lanza un dado de seis caras y pon boca abajo una cantidad de cartas igual al resultado.
+
+Da la vuelta a una carta para descubrir algo y lanza un dado de seis dados:
+
+Con 1-2 es complicado llegar.
+Con 3-4 te encuentras con ello de repente.
+Con 5-6 lo ves mientras estás descansando.
