@@ -8,7 +8,7 @@ Eres un aventurero solitario, saltando de planeta en planeta explorando. Cada mu
 
 Para encontrar un nuevo planeta, lanza un dado de seis caras y pon boca abajo una cantidad de cartas igual al resultado.
 
-Da la vuelta a una carta para descubrir algo y lanza un dado de seis dados:
+Da la vuelta a una carta para descubrir algo y lanza un dado de seis caras:
 
 Con 1-2 llegar es una tarea árdua.
 Con 3-4 te encuentras con ello de repente.
