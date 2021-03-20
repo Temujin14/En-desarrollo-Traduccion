@@ -31,15 +31,15 @@ Son ruinas: obeliscos misteriosos, templos cubiertos de enredaderas, viviendas d
 Las picas suponen un fenómeno natural: Enormes formaciones de cristales, espejismos, destellos de colores vívidos, nubes extrañas, rocas que forman estrañas formas, vetas de metales preciosos, etc.
 
 A: In a field taller than you.
-2: Under the light of the moon(s).
-3: By a gentle river.
-4: In a steep canyon.
-5: In a treetop.
-6: On the snowy peak of a mountain.
-7: Near a volcano.
-8: On a glacier.
-9: Deep underground.
-10: On a cliff face.
-J: In the desert.
-Q: In deep water.
-K: Floating in the air.
+2: Bajo la luz de la/s luna/s.
+3: Por un río suave.
+4: En un cañón escarpado.
+5: En la copa de un árbol.
+6: En el pico nevado de una montaña.
+7: Cerca de un volcán.
+8: Sobre un glaciar.
+9: Profundo bajo tierra.
+10: En un acantilado.
+J: En un desierto.
+Q: En aguas profundas.
+K: Flotando en el aire.
