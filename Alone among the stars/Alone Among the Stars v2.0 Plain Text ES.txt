@@ -30,7 +30,7 @@ Son ruinas: obeliscos misteriosos, templos cubiertos de enredaderas, viviendas d
 ♠ Picas
 Las picas suponen un fenómeno natural: Enormes formaciones de cristales, espejismos, destellos de colores vívidos, nubes extrañas, rocas que forman estrañas formas, vetas de metales preciosos, etc.
 
-A: In a field taller than you.
+A: En un campo que crece más alto que tú.
 2: Bajo la luz de la/s luna/s.
 3: Por un río suave.
 4: En un cañón escarpado.
